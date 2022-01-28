@@ -1,4 +1,4 @@
-# discord-bot_template
+# discord-bot template
 ## setup
 - fork this repository
 - clone forked repository

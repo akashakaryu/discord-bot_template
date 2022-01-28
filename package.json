@@ -1,5 +1,5 @@
 {
-  "name": "discord-bot-template",
+  "name": "discord-bot_template",
   "version": "1.0.0",
   "description": "a discord bot app template created with love",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akashakaryu/discord-bot-template.git"
+    "url": "git+https://github.com/akashakaryu/discord-bot_template.git"
   },
   "keywords": [
     "discord"
@@ -20,12 +20,13 @@
     "node": ">=17.3.0"
   },
   "bugs": {
-    "url": "https://github.com/akashakaryu/discord-bot-template/issues"
+    "url": "https://github.com/akashakaryu/discord-bot_template/issues"
   },
-  "homepage": "https://github.com/akashakaryu/discord-bot-template#readme",
+  "homepage": "https://github.com/akashakaryu/discord-bot_template#readme",
   "dependencies": {
     "discord.js": "^13.5.1",
     "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.6",
     "express": "^4.17.2"
   }
 }
